@@ -449,6 +449,7 @@
       "listing_id": "int",
       "quantity": "int",
       "title": "string",
+      "sku":"string",
       "description": "text",
       "price": "float",
       "wholesale_price": "float",
@@ -482,6 +483,7 @@
     "defaults": {
       "quantity": null,
       "title": null,
+      "sku":null,
       "description": null,
       "price": null,
       "wholesale_price": null,
